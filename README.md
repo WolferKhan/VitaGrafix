@@ -1,13 +1,13 @@
 # VitaGrafix
-VitaGrafix is a taiHEN plugin that allows you to change resolution and FPS cap of PS Vita games (to get better visuals, higher FPS or longer battery life).
+VitaGrafix - Ps Vita oyunlarının çözünürlük ve FPS sınırını değiştirmeyi sağlayan taiHEN eklentisi(Daha iyi görseller yada yüksek FPS ve Uzun batarya ömrü elde etmek için).
 
-**Official patchlist:** [HERE](https://github.com/Electry/VitaGrafixPatchlist)
+**Resmi Yama Listesi:** [Buradan](https://github.com/Electry/VitaGrafixPatchlist)
 
-**For more information, visit the VitaGrafix wiki:** [HERE](https://github.com/Electry/VitaGrafix/wiki)
+**Daha fazla bilgi için, VitaGrafix wikisini ziyaret et:** [Buradan](https://github.com/Electry/VitaGrafix/wiki)
 
 <br>
 <br>
 
 _____
 
-Licensed under [GNU GPL v3](https://github.com/Electry/VitaGrafix/blob/master/LICENSE.md)
+Lisanslanmıştır [GNU GPL v3](https://github.com/Electry/VitaGrafix/blob/master/LICENSE.md)
